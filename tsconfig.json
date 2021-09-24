@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "moduleResolution": "node",
+    "baseUrl": "./src",
+    "lib": ["esnext", "dom"],
+    "target": "es6",
+    "jsx": "preserve",
+  },
+  "include": ["src/**/*"]
+}
